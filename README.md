@@ -22,7 +22,7 @@
 ## Back-end
 Build RESTful API, Write UnitTest for every function (required)
 * Spring Boot
-* Swagger UI
+* SwaggerUI (for API documentation)
 * JWT
 * JPA/Hibernate
 ## Database
@@ -36,3 +36,4 @@ Build RESTful API, Write UnitTest for every function (required)
 * Git
 * Figma
 * Mockaroo (for data generation)
+* Trello (for task management)
